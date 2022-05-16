@@ -1,0 +1,357 @@
+.zagolovok {
+    color: white;
+    background-image: url(./img/imgBackground\ 2.png);
+    background-size: 100%;
+    height: auto;
+}
+
+.verhniyZagolovok {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 94%;
+}
+
+.verhnieCnopki {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 20%;
+}
+
+.tripiMind {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.strelka {
+    height: 10.401535987854004px;
+    width: 20.8699951171875px;
+    left: 139.1300048828125px;
+    top: 4.770111083984375px;
+    border-radius: 0px;
+    align-items: center;
+}
+
+.chertochka {
+    height: 2px;
+    width: 7px;
+    left: 0px;
+    top: 9.264617919921875px;
+    border-radius: 0px;
+}
+
+.otkroymir {
+    width: 40%;
+    margin-top: 6%;
+    margin-left: 5%;
+    padding-bottom: 10%;
+}
+
+.otkroytext {
+    font-weight: 00;
+    font-size: 60px;
+    line-height: 95px;
+    margin: 0;
+}
+
+.avtortur {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 70%;
+    margin-bottom: 7%;
+}
+
+.ostavzayav {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: #3CDCFF;
+    border-radius: 38px;
+    padding: 2% 7%;
+}
+
+.ostavzayav:hover {
+    color: #3CDCFF;
+    background-color: black;
+}
+
+.obshiy1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10% 0;
+}
+
+.gory {
+    color: white;
+    width: 40%;
+    background-image: url(./img/imgHawaii\ 1.png);
+    background-size: 100% 100%;
+}
+
+.dataVremya {
+    padding: 1% 0 25% 5%;
+}
+
+.ushele {
+    padding: 0 0 3% 5%;
+    width: 22%;
+}
+
+.posmotri {
+    width: 25%;
+}
+
+.vsenaprav {
+    font-size: 42px;
+    font-weight: 700;
+    margin-top: 5%;
+}
+
+.berega {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 25px;
+    margin-top: -4%;
+    margin-bottom: 10%;
+}
+
+.smotret {
+    border: 2px solid #3CDCFF;
+    border-radius: 38px;
+    padding: 4% 12%;
+    background-color: inherit;
+    color: #3CDCFF;
+}
+
+.zayavka {
+    display: flex;
+    width: 40%;
+    margin-left: 50%;
+    padding: 5%;
+
+}
+
+.cnopki {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.main2 {
+    background-image: url(./img/imgForm\ 1.png);
+    background-size: 100% 100%;
+}
+
+.textzayav {
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 80%;
+    margin: 0;
+}
+
+.perezvonim {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 45%;
+}
+
+.imya {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: 2px solid #9CB7CA;
+    border-radius: 38px;
+    padding: 5% 7%;
+}
+
+.nomer {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: 2px solid #9CB7CA;
+    border-radius: 38px;
+    padding: 5% 7%;
+}
+
+.otprav1 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 5% 7%;
+    background: #3CDCFF;
+    border-radius: 38px;
+}
+
+.otprav1:hover {
+    color: #3CDCFF;
+    background-color: black;
+}
+
+.confid {
+    text-align: center;
+}
+
+.podcherk {
+    text-decoration: none;
+}
+
+.chelovek {
+    display: flex;
+    margin: 5% 10%;
+    justify-content: space-between;
+}
+
+h1 {
+    width: 70%;
+    margin-bottom: 10%;
+}
+
+.recomendacii {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 75%;
+    margin-bottom: 10%;
+}
+
+.chtopishut {
+    width: 40%;
+}
+
+.chitat {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: 2px solid #3CDCFF;
+    border-radius: 38px;
+    padding: 2% 7%;
+    background: inherit;
+    color: #3CDCFF;
+}
+
+.otzuv1 {
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.imya1 {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.pogaluy {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 65%;
+    padding-top: 40%;
+    margin-left: 10%;
+
+}
+
+.verhtext {
+    margin-left: 10%;
+}
+
+.elena {
+    background-image: url(./img/imgHawaii\ 2.png);
+    background-size: 100% 100%;
+    color: white;
+    width: 60%;
+
+}
+
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background: #F1F2F6;
+    padding: 2%;
+
+}
+
+.cartin {
+    height: 35px;
+    width: 160px;
+    top: 3153px;
+    border-radius: 0px;
+    margin-top: 3%;
+}
+
+.politika {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #537B97;
+    width: 10%;
+}
+
+.soglashenie {
+    color: #537B97;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 30%;
+}
+
+.cartinki {
+    width: 15%;
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 1.5%;
+    padding-right: 2%;
+}
+.qw{
+    height: 17.69230842590332px;
+    width: 29.574256896972656px;
+    left: 1592px;
+    top: 3162.769287109375px;
+    border-radius: 0px;
+        
+}
